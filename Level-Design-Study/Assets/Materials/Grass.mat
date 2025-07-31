@@ -105,6 +105,8 @@ Material:
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
+    - _GrassHeightBlend: 2
+    - _GrassSurfaceColor: 0.9
     - _Metallic: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.005
@@ -121,6 +123,7 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - _BaseColor: {r: 0.10197922, g: 0.49056602, b: 0.085617654, a: 1}
+    - _BottomGrassColor: {r: 0.5284116, g: 0.7075472, b: 0.103462085, a: 0}
     - _Color: {r: 0.12720035, g: 0.5660378, b: 0.10946956, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _FarColor: {r: 0.08174324, g: 0.4245283, b: 0.042052332, a: 0}
